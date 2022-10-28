@@ -1,0 +1,10 @@
+● アプリの読み込みをシームレスにする
+スプラッシュ画面を追加します。これは、ユーザーがアプリを選択した後に最初に表示されるものです。
+
+● システムUIでうまく遊ぶ
+インターフェイスと衝突しないようにステータスバーを設定します。
+ https://docs.expo.dev/guides/configuring-statusbar/
+可能な限りネイティブジェスチャーを使用してください。
+ https://docs.expo.dev/versions/latest/sdk/gesture-handler/
+
+
